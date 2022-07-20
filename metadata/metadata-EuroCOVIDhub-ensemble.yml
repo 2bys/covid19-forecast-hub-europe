@@ -10,7 +10,7 @@ methods: An ensemble, or model average, of submitted forecasts to the European C
   Forecast Hub.
 team_funding: This model's development is funded by the European Centres for Disease
   Countrol.
-repo_url: https://github.com/epiforecasts/covid19-forecast-hub-europe
+repo_url: https://github.com/covid19-forecast-hub-europe/covid19-forecast-hub-europe
 twitter_handles: kathsherratt, ftargument, sbfnk
 data_inputs: incident case and death forecasts from other models.
 methods_long: The current ensemble is specified in https://github.com/epiforecasts/covid19-forecast-hub-europe/blob/main/forecasthub.yml
